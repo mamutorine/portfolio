@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Morine Amutorine
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Morine Amutorine
+Morine Amutorine
+Data Analyst
 
 Show Contacts
 
 Email
-richard@example.com
+amutorine@gmail.com
 
 Phone
-+1 (213) 352-2795
++256 755
 
 Birthday
-June 23, 1982
+December 3
 
 Location
-Sacramento, California, USA
+Kampala Uganda
 
 # navbar
 
